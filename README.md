@@ -1,5 +1,9 @@
 **About**
 Its the App where users can sign up or sign in and create lists of people's names. They can then shake a virtual bowl to randomly select a name from the list, accompanied by a message ("Marty is praying for you"). My role involved integrating APIs and enhancing the app's design for a better user experience.
+
+
+
+
 **Images**
 ![image](https://github.com/user-attachments/assets/bea6b81b-0385-4ed7-ae65-cf46063d69cf)
 ![image](https://github.com/user-attachments/assets/5defbdc6-27a9-4f15-afcc-614b8cafd0af)
